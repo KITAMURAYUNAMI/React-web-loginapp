@@ -1,2 +1,1 @@
-# React-web-loginapp
-Created with CodeSandbox
+# 簡単なログイン機能やチャクラuiなどの技術が使われています
