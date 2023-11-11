@@ -27,3 +27,5 @@ export const LoginUserProvider = (props: { children: ReactNode }) => {
   );
 };
 //ここでは全部のページからloginuser, setloginuserを参照できるようにしている
+//LoginUserContextを各ページで呼び出せばその要素をどこからでも呼べる
+//ここのページでグローバルなpropsを作っている
